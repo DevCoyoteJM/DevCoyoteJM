@@ -1,4 +1,4 @@
-![Cover](https://github.com/coyote385/coyote385/blob/main/Banner.png)
+![Cover](https://github.com/DevCoyoteJM/DevCoyoteJM/blob/main/Banner.png)
 <h1 align="center">Hola, soy Jonathan Mendez 👋</h1>
 
 <p align="center">
@@ -64,4 +64,4 @@ Siempre aprendiendo. Siempre construyendo.
 
 ## 📍 Ibagué, Colombia
 
-:star: [@coyote385](https://github.com/coyote385)
+:star: [@DevCoyoteJM](https://github.com/DevCoyoteJM)
