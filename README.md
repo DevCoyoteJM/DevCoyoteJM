@@ -1,4 +1,4 @@
-![Cover](./banner.svg)
+![Cover](https://raw.githubusercontent.com/DevCoyoteJM/DevCoyoteJM/main/banner.svg?v=2)
 <h1 align="center">Hola, soy Jonathan Mendez </h1>
 
 <p align="center">
