@@ -149,5 +149,5 @@
   <text x="659" y="0" class="decoder" style="animation-delay: 2.10s;">1<tspan x="659" dy="15">0</tspan><tspan x="659" dy="15">1</tspan><tspan x="659" dy="15">0</tspan><tspan x="659" dy="15" class="head">Z</tspan></text>
 
   <!-- Subtítulo -->
-  <text x="425" y="158" class="subtitle">> Ingeniero de Sistemas y Computación · Fullstack & AI<tspan class="cursor">_</tspan></text>
+  <text x="425" y="158" class="subtitle">> Ingeniero de Sistemas · Fullstack & AI<tspan class="cursor">_</tspan></text>
 </svg>
