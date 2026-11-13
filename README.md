@@ -1,4 +1,6 @@
-![Cover](https://raw.githubusercontent.com/DevCoyoteJM/DevCoyoteJM/main/banner.svg?v=3)
+<p align="center">
+  <img src="./banner.svg" alt="Banner Jonathan Mendez" width="100%" />
+</p>
 <h1 align="center">Hola, soy Jonathan Mendez </h1>
 
 <p align="center">
