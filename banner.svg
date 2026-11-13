@@ -70,11 +70,9 @@
     }
   </style>
 
-  <!-- Fondo -->
   <rect width="850" height="220" rx="12" class="bg" />
   <rect x="1" y="1" width="848" height="218" rx="11" class="border" />
 
-  <!-- Lluvia ambiental continua -->
   <g class="ambient a1"><text x="45" y="0">1<tspan x="45" dy="15">0</tspan><tspan x="45" dy="15">1</tspan><tspan x="45" dy="15">1</tspan><tspan x="45" dy="15">0</tspan><tspan x="45" dy="15">0</tspan><tspan x="45" dy="15">1</tspan></text></g>
   <g class="ambient a3"><text x="115" y="0">0<tspan x="115" dy="15">1</tspan><tspan x="115" dy="15">0</tspan><tspan x="115" dy="15">1</tspan><tspan x="115" dy="15">1</tspan><tspan x="115" dy="15">0</tspan><tspan x="115" dy="15">1</tspan></text></g>
   <g class="ambient a2"><text x="240" y="0">1<tspan x="240" dy="15">1</tspan><tspan x="240" dy="15">0</tspan><tspan x="240" dy="15">0</tspan><tspan x="240" dy="15">1</tspan><tspan x="240" dy="15">0</tspan><tspan x="240" dy="15">1</tspan></text></g>
@@ -82,7 +80,6 @@
   <g class="ambient a2"><text x="735" y="0">1<tspan x="735" dy="15">0</tspan><tspan x="735" dy="15">1</tspan><tspan x="735" dy="15">0</tspan><tspan x="735" dy="15">0</tspan><tspan x="735" dy="15">1</tspan><tspan x="735" dy="15">1</tspan></text></g>
   <g class="ambient a1"><text x="805" y="0">0<tspan x="805" dy="15">1</tspan><tspan x="805" dy="15">0</tspan><tspan x="805" dy="15">1</tspan><tspan x="805" dy="15">1</tspan><tspan x="805" dy="15">0</tspan><tspan x="805" dy="15">0</tspan></text></g>
 
-  <!-- Letras de JONATHAN MENDEZ -->
   <text x="187" y="112" class="char" style="animation-delay: 0.55s;">J</text>
   <text x="221" y="112" class="char" style="animation-delay: 0.67s;">O</text>
   <text x="255" y="112" class="char" style="animation-delay: 0.79s;">N</text>
@@ -99,7 +96,6 @@
   <text x="629" y="112" class="char" style="animation-delay: 2.05s;">E</text>
   <text x="663" y="112" class="char" style="animation-delay: 2.17s;">Z</text>
 
-  <!-- Ráfagas verticales sincronizadas -->
   <g class="decoder" style="animation-delay: 0.10s;"><text x="187" y="0">0<tspan x="187" dy="15">1</tspan><tspan x="187" dy="15">0</tspan><tspan x="187" dy="15">1</tspan><tspan x="187" dy="15" class="head">J</tspan></text></g>
   <g class="decoder" style="animation-delay: 0.22s;"><text x="221" y="0">1<tspan x="221" dy="15">0</tspan><tspan x="221" dy="15">1</tspan><tspan x="221" dy="15">1</tspan><tspan x="221" dy="15" class="head">O</tspan></text></g>
   <g class="decoder" style="animation-delay: 0.34s;"><text x="255" y="0">0<tspan x="255" dy="15">0</tspan><tspan x="255" dy="15">1</tspan><tspan x="255" dy="15">0</tspan><tspan x="255" dy="15" class="head">N</tspan></text></g>
@@ -116,6 +112,5 @@
   <g class="decoder" style="animation-delay: 1.60s;"><text x="629" y="0">0<tspan x="629" dy="15">1</tspan><tspan x="629" dy="15">0</tspan><tspan x="629" dy="15">1</tspan><tspan x="629" dy="15" class="head">E</tspan></text></g>
   <g class="decoder" style="animation-delay: 1.72s;"><text x="663" y="0">1<tspan x="663" dy="15">0</tspan><tspan x="663" dy="15">1</tspan><tspan x="663" dy="15">0</tspan><tspan x="663" dy="15" class="head">Z</tspan></text></g>
 
-  <!-- Subtítulo -->
   <text x="425" y="158" class="subtitle">> Ingeniero de Sistemas · Fullstack & AI_</text>
 </svg>
