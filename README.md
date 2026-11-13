@@ -1,5 +1,5 @@
 ![Cover](./banner.svg)
-<h1 align="center">Hola, soy Jonathan Mendez 👋</h1>
+<h1 align="center">Hola, soy Jonathan Mendez </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
